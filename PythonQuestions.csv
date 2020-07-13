@@ -11,11 +11,11 @@ AASKK09,Python Introduction,How python code is different from notebook
 AASKK10,Python Introduction,What is mutable data type
 AASKK11,Python Introduction,What is immutable datatype
 AASKK12,Python Introduction,What are different data types available in python
-AASKK13,DataTypes,what is list
-AASKK14,DataTypes,what is string
-AASKK15,DataTypes,what is dictionary
-AASKK16,DataTypes,what are sets
-AASKK17,DataTypes,what are tuples
+AASKK13,Lists,what is list
+AASKK14,String,what is string
+AASKK15,Dictionary,what is dictionary
+AASKK16,Sets,what are sets
+AASKK17,Tuples,what are tuples
 AASKK18,Python Introduction,Which field python is extensively used
 AASKK19,Python Introduction,"what is AI, Machine Learning, Big Data computing and big data?"
 AASKK20,Python Introduction,Does python has features of data analytics
@@ -23,27 +23,27 @@ AASKK21,Python Introduction,what are all python libraries
 AASKK22,Python Introduction,"tensorflow, opencv and pandas are part of python?"
 AASKK23,Python Introduction,Is python a high level language?
 AASKK24,Python Introduction,Can python be used for automation
-AASKK25,DataTypes,what are lists and whether they are similar to arrays?
-AASKK26,DataTypes,what is an index in a list?
-AASKK27,DataTypes,what is a reverse list?
-AASKK28,DataTypes,whether list is mutable?
-AASKK29,DataTypes,can we have nested lists?
-AASKK30,DataTypes,can we concatenate two lists?
-AASKK31,DataTypes,what is a tuple?
-AASKK32,DataTypes,is tuple mutable?
-AASKK33,DataTypes,what is a dictionary?
-AASKK34,DataTypes,what is key in a dictionary?
-AASKK35,DataTypes,what is key value pair in a dictionary?
-AASKK36,DataTypes,whether keys are always unique in a dictionary?
-AASKK37,DataTypes,what are sets and whether we can have unique elements in sets?
-AASKK38,DataTypes,whether sets are mutable?
-AASKK39,DataTypes,"what operations we can perform in sets? union, intersection and difference"
-AASKK40,DataTypes,how to open a file in python. 
-AASKK41,DataTypes,what are all different modes available in python
-AASKK42,DataTypes,what is file read operation?
-AASKK43,DataTypes,what is file write operation?
-AASKK44,DataTypes,what is file close operation?
-AASKK45,DataTypes,how to close a file automatically when you use file read?
+AASKK25,Lists,what are lists and whether they are similar to arrays?
+AASKK26,Lists,what is an index in a list?
+AASKK27,Lists,what is a reverse list?
+AASKK28,Lists,whether list is mutable?
+AASKK29,Lists,can we have nested lists?
+AASKK30,Lists,can we concatenate two lists?
+AASKK31,Tuples,what is a tuple?
+AASKK32,Tuples,is tuple mutable?
+AASKK33,Dictionary,what is a dictionary?
+AASKK34,Dictionary,what is key in a dictionary?
+AASKK35,Dictionary,what is key value pair in a dictionary?
+AASKK36,Dictionary,whether keys are always unique in a dictionary?
+AASKK37,Sets,what are sets and whether we can have unique elements in sets?
+AASKK38,Sets,whether sets are mutable?
+AASKK39,Sets,"what operations we can perform in sets? union, intersection and difference"
+AASKK40,File,how to open a file in python. 
+AASKK41,File,what are all different modes available in python
+AASKK42,File,what is file read operation?
+AASKK43,File,what is file write operation?
+AASKK44,File,what is file close operation?
+AASKK45,File,how to close a file automatically when you use file read?
 AASKK46,Classes,what are classess in python?
 AASKK47,Classes,what is new type of object in a class?
 AASKK48,Classes,what are new instances to be made in a class?
@@ -56,81 +56,81 @@ AASKK54,Functions,how functions are different from methods?
 AASKK55,Functions,whether functions return data or not?
 AASKK56,Functions,whether methods return data or not?
 AASKK57,Functions,how to pass an argument to the function?
-AASKK58,DataTypes,"python: what is the difference between (1,2,3) and [1,2,3], and when should i use each?"
+AASKK58,Lists,"python: what is the difference between (1,2,3) and [1,2,3], and when should i use each?"
 AASKK59,Functions,calling a function of module from a strong with function name in python
-AASKK60,DataTypes,what is python unicode
-AASKK61,DataTypes,what are python regular expressions
-AASKK62,DataTypes,what are all different file types we can read in python
-AASKK63,DataTypes,what is a python iterator
-AASKK64,DataTypes,how python is different from other languages
-AASKK65,DataTypes,"how python is different from java, c , c++ etc"
-AASKK66,DataTypes,how multiprocessing work in python?
-AASKK67,DataTypes,how threads work in pyton?
-AASKK68,DataTypes,what does ** (double star) and * (star) do for python parameters?
+AASKK60,Lists,what is python unicode
+AASKK61,RegularExpression,what are python regular expressions
+AASKK62,File,what are all different file types we can read in python
+AASKK63,File,what is a python iterator
+AASKK64,Introduction to Python,how python is different from other languages
+AASKK65,Introduction to Python,"how python is different from java, c , c++ etc"
+AASKK66,File,how multiprocessing work in python?
+AASKK67,File,how threads work in pyton?
+AASKK68,Functions,what does ** (double star) and * (star) do for python parameters?
 AASKK69,Functions,what's the best way to return multiple values from a function in python?
-AASKK70,DataTypes,how to merge two python dictionaries in a single expression?
-AASKK71,DataTypes,how to merge two python dictionaries in a single expression?
-AASKK72,DataTypes,python re.sub multiline  match
+AASKK70,Dictionary,how to merge two python dictionaries in a single expression?
+AASKK71,Dictionary,how to merge two python dictionaries in a single expression?
+AASKK72,RegularExpression,python re.sub multiline  match
 AASKK73,Python Introduction,what are python packages?
 AASKK74,Python Introduction,what is numpy and  pandas?
 AASKK75,Python Introduction,what  is seaborn?
 AASKK76,Python Introduction,Can excel be read in python?
 AASKK77,Python Introduction,can csv file be read in python?
-AASKK78,DataTypes,what are all different arithmatic operators available in python?
-AASKK79,DataTypes,how to import libraries in python?
+AASKK78,Introduction to Python,what are all different arithmatic operators available in python?
+AASKK79,Introduction to Python,how to import libraries in python?
 AASKK80,Python Introduction,how to sort objects in a dictionary?
 AASKK81,DataTypes,what are all different datatypes available in python?
 AASKK82,Python Introduction,how is python different from different programming languages?
 AASKK83,Python Introduction,how is python different from different r programming language?
 AASKK84,Functions,what is a len function?
 AASKK85,Functions,where len function is used?
-AASKK86,DataTypes,pattern matching in lists?
-AASKK87,DataTypes,map two lists into single list?
-AASKK88,DataTypes,merging/adding lists in python?
-AASKK89,DataTypes,comparing massive lists of dictionaries from python
-AASKK90,DataTypes,i need help lists and python
+AASKK86,Lists,pattern matching in lists?
+AASKK87,Lists,map two lists into single list?
+AASKK88,Lists,merging/adding lists in python?
+AASKK89,Dictionary,comparing massive lists of dictionaries from python
+AASKK90,Lists,i need help lists and python
 AASKK91,DataTypes,i need help python datatypes
-AASKK92,DataTypes,sorting and grouping nested lists in python
-AASKK93,DataTypes,ordered lists in python
-AASKK94,DataTypes,how can i manipulate lists
-AASKK95,DataTypes,python loops with multiple lists
-AASKK96,DataTypes,python intersection of two lists
-AASKK97,DataTypes,check if a values exists in a nestes lists?
-AASKK98,DataTypes,all combinations of list of lists
-AASKK99,DataTypes,clearing a variable. 
-AASKK100,DataTypes,clearing python lists
-AASKK101,DataTypes,how can i find location of items in python list of lists
-AASKK102,DataTypes,how to write a list of lists to a file?
-AASKK103,DataTypes,algorithm to divide a list of numbers into 2 equal sum lists
-AASKK104,DataTypes,what is the underlying data structure for python lists?
-AASKK105,DataTypes,sorting a tuple that contains lists
-AASKK106,DataTypes,"is there a way in python to index a list of containers (tuples, lists, dictionaries) by an element of a container?"
-AASKK107,DataTypes,removing duplicates from list of lists in python
-AASKK108,DataTypes,python search in lists of lists
-AASKK109,DataTypes,how to split two nested lists and combine the parts to create two new nested lists
-AASKK110,DataTypes,python strongly type lists
-AASKK111,DataTypes,python list filtering: remove subsets from list of lists
-AASKK112,DataTypes,"combining two lists and removing duplicates, without removing duplicates in original list"
-AASKK113,DataTypes,python: dictionaries of lists are somehow coupled
-AASKK114,DataTypes,how can i compare two lists in python and return matches
-AASKK115,DataTypes,"in python, can i print 3 lists in order by index number?"
-AASKK116,DataTypes,how to merge two python dictionaries in a single expression?
-AASKK117,DataTypes,how to merge two python dictionaries in a single expression?
-AASKK118,DataTypes,in python how do i sort a list of dictionaries by a certain value of the dictionary + alphabetically?
-AASKK119,DataTypes,"python advice for a beginner. regex, dictionaries etc?"
-AASKK120,DataTypes,concatenating dictionaries
-AASKK121,DataTypes,finding matching keys in two large dictionaries and doing it fast
-AASKK122,DataTypes,sorting lists of list of dictionaries
-AASKK123,DataTypes,deleting duplicate dictionaries in a list in python
+AASKK92,Lists,sorting and grouping nested lists in python
+AASKK93,Lists,ordered lists in python
+AASKK94,Lists,how can i manipulate lists
+AASKK95,Lists,python loops with multiple lists
+AASKK96,Lists,python intersection of two lists
+AASKK97,Lists,check if a values exists in a nestes lists?
+AASKK98,Lists,all combinations of list of lists
+AASKK99,Introduction to Python,clearing a variable. 
+AASKK100,Lists,clearing python lists
+AASKK101,Lists,how can i find location of items in python list of lists
+AASKK102,Lists,how to write a list of lists to a file?
+AASKK103,Lists,algorithm to divide a list of numbers into 2 equal sum lists
+AASKK104,Lists,what is the underlying data structure for python lists?
+AASKK105,Tuples,sorting a tuple that contains lists
+AASKK106,Dictionary,"is there a way in python to index a list of containers (tuples, lists, dictionaries) by an element of a container?"
+AASKK107,Lists,removing duplicates from list of lists in python
+AASKK108,Lists,python search in lists of lists
+AASKK109,Lists,how to split two nested lists and combine the parts to create two new nested lists
+AASKK110,Lists,python strongly type lists
+AASKK111,Lists,python list filtering: remove subsets from list of lists
+AASKK112,Lists,"combining two lists and removing duplicates, without removing duplicates in original list"
+AASKK113,Dictionary,python: dictionaries of lists are somehow coupled
+AASKK114,Lists,how can i compare two lists in python and return matches
+AASKK115,Lists,"in python, can i print 3 lists in order by index number?"
+AASKK116,Dictionary,how to merge two python dictionaries in a single expression?
+AASKK117,Dictionary,how to merge two python dictionaries in a single expression?
+AASKK118,Dictionary,in python how do i sort a list of dictionaries by a certain value of the dictionary + alphabetically?
+AASKK119,Dictionary,"python advice for a beginner. regex, dictionaries etc?"
+AASKK120,Dictionary,concatenating dictionaries
+AASKK121,Dictionary,finding matching keys in two large dictionaries and doing it fast
+AASKK122,Dictionary,sorting lists of list of dictionaries
+AASKK123,Dictionary,deleting duplicate dictionaries in a list in python
 AASKK124,Python Introduction,How much memory is used by python memory usage? 
-AASKK125,DataTypes,pythonic way to reverse nested dictionaries
-AASKK126,DataTypes,merging python dictionaries
-AASKK127,DataTypes,python dictionaries: changing the order of nesting
-AASKK128,DataTypes,dictionaries in python
-AASKK129,DataTypes,"python dictionaries, find similarities"
-AASKK130,DataTypes,"python: tuples/dictionaries as keys, select, sort"
-AASKK131,DataTypes,dictionary of dictionaries in python!
-AASKK132,DataTypes,merging dictionaries using a counter
+AASKK125,Dictionary,pythonic way to reverse nested dictionaries
+AASKK126,Dictionary,merging python dictionaries
+AASKK127,Dictionary,python dictionaries: changing the order of nesting
+AASKK128,Dictionary,dictionaries in python
+AASKK129,Dictionary,"python dictionaries, find similarities"
+AASKK130,Dictionary,"python: tuples/dictionaries as keys, select, sort"
+AASKK131,Dictionary,dictionary of dictionaries in python!
+AASKK132,Dictionary,merging dictionaries using a counter
 AASKK133,Python Introduction,what is the difference between range and xrange functions in python 2.x and 3.0?
 AASKK134,Python Introduction,how to generate random numbers in python
 AASKK135,Python Introduction,"what is normal , uniform and gaussian distribution in python?"
@@ -145,45 +145,45 @@ AASKK143,Python Introduction,what are multi line comments?
 AASKK144,Python Introduction,what is lambda function?
 AASKK145,Python Introduction,what is map operator?
 AASKK146,Python Introduction,what is apply method?
-AASKK147,DataTypes,convert hex string to int in python
-AASKK148,DataTypes,map two lists into a dictionary in python
-AASKK149,DataTypes,how to iterate over a list repeating each element in python
+AASKK147,String,convert hex string to int in python
+AASKK148,Lists,map two lists into a dictionary in python
+AASKK149,Lists,how to iterate over a list repeating each element in python
 AASKK150,DataTypes,how do you apply 'or' to all values of a list in python?
 AASKK151,DataTypes,how to change the value of none in python?
 AASKK152,Python Introduction,using numpy.apply
-AASKK153,DataTypes,tips for debugging list comprehensions?
+AASKK153,Lists,tips for debugging list comprehensions?
 AASKK154,Python Introduction,how do i create custom dataobjects in python?
-AASKK155,Pandas,What is datetime format and day format in Pandas?
-AASKK156,DataTypes,how to replace the nth element of multi dimension lists in python?
+AASKK155,DatatIme,What is datetime format and day format in Pandas?
+AASKK156,Lists,how to replace the nth element of multi dimension lists in python?
 AASKK157,Functions,how to apply function to only certain array elements?
 AASKK158,DataTypes,"numpy mmap: ""valueerror: size of available data is not a multiple of data-type size."""
-AASKK159,Pandas,how to get the correlation between variables using pandas
-AASKK160,DataTypes,how to calculate the average of only one column in a series of file with python?
-AASKK161,DataTypes,python: adding dictionary values to form new tuple-keyed dictionary
-AASKK162,Pandas,append two data frame with pandas
-AASKK163,DataTypes,indexing several csv files with pandas from records?
-AASKK164,Pandas,How to serialize a pandas dataframe?
-AASKK165,Pandas,how do i tell pandas to parse a particular column as a datetime object?
-AASKK166,DataTypes,pandas convert dataframe to array of tuples
-AASKK167,DataTypes,python unique method identifier
-AASKK168,DataTypes,concatenating synthesized tones in python
-AASKK169,DataTypes,in python how would i do a deep copy of a dict to a particular depth?
-AASKK170,Pandas,best way to construct a pandas.dataframe?
-AASKK171,Pandas,what is pandas pivot table?
-AASKK172,Pandas,what is pandas qcut method?
-AASKK173,Pandas,what is pandas cut method?
-AASKK174,Pandas,how you create a datetime index in pandas
-AASKK175,DataTypes,python string operation
-AASKK176,Pandas,how to sort pandas pivot table?
-AASKK177,Pandas,How to add a row in pandas dataframe?
-AASKK178,Pandas,How to create Pandas series?
-AASKK179,Pandas,What is Pandas Groupby Object
-AASKK180,Pandas,what is aggregation in pandas groupby ?
-AASKK181,Pandas,what is data downsampling in pandas?
-AASKK182,Pandas,what are missing values in pandas?
-AASKK183,Pandas,what is a value_counts of a series?
-AASKK184,DataTypes,why dict.get(key) instead of dict[key]?
-AASKK185,Pandas,python pandas - re-ordering columns in a dataframe based on column name
+AASKK159,Correlation,how to get the correlation between variables using pandas
+AASKK160,Column,how to calculate the average of only one column in a series of file with python?
+AASKK161,Dictionary,python: adding dictionary values to form new tuple-keyed dictionary
+AASKK162,DataFrame,append two data frame with pandas
+AASKK163,File,indexing several csv files with pandas from records?
+AASKK164,DataFrame,How to serialize a pandas dataframe?
+AASKK165,Datetime,how do i tell pandas to parse a particular column as a datetime object?
+AASKK166,DataFrame,pandas convert dataframe to array of tuples
+AASKK167,Introduction to Python,python unique method identifier
+AASKK168,Introduction to Python,concatenating synthesized tones in python
+AASKK169,Lists,in python how would i do a deep copy of a dict to a particular depth?
+AASKK170,DataFrame,best way to construct a pandas.dataframe?
+AASKK171,PivotTable,what is pandas pivot table?
+AASKK172,PivotTable,what is pandas qcut method?
+AASKK173,PivotTable,what is pandas cut method?
+AASKK174,Datetime,how you create a datetime index in pandas
+AASKK175,String,python string operation
+AASKK176,DataFrame,how to sort pandas pivot table?
+AASKK177,DataFrame,How to add a row in pandas dataframe?
+AASKK178,DataFrame,How to create Pandas series?
+AASKK179,GroupBy,What is Pandas Groupby Object
+AASKK180,GroupBy,what is aggregation in pandas groupby ?
+AASKK181,Sampling,what is data downsampling in pandas?
+AASKK182,Missing,what are missing values in pandas?
+AASKK183,DataFrame,what is a value_counts of a series?
+AASKK184,Dictionary,why dict.get(key) instead of dict[key]?
+AASKK185,DataFrame,python pandas - re-ordering columns in a dataframe based on column name
 AASKK186,Numpy,"how to create 3 dimensions matrix in numpy , like matlab a(:,:,:)"
 AASKK187,Numpy,just curious about result from numpy function!
 AASKK188,Python Introduction,python and statistical analysis tutorials
@@ -195,105 +195,105 @@ AASKK193,Python Introduction,multidimensional scaling using python
 AASKK194,Python Introduction,machine learning using python
 AASKK195,Python Introduction,taking a t-test with python?
 AASKK196,Python Introduction,chi squared results in r and python
-AASKK197,Pandas,What is row correlation?
-AASKK198,Pandas,How to do labelencoding for pandas dataframe using sklearn labelencoder
-AASKK199,Pandas,How to engineer features using pandas
-AASKK200,Pandas,what are pandas / statsmodel / scikits-learn?
-AASKK201,Pandas,What is the differences in spearman coefficient between r and pandas
-AASKK202,Pandas,How to fill in misssing value in datatime format in pandas?
-AASKK203,Pandas,How to plot boxplot for normal distribution data?
-AASKK204,Pandas,How to plot boxplot in pandas?
-AASKK205,Pandas,how to assess skewness from a boxplot?
-AASKK206,Pandas,what is boxplot interpretation?
-AASKK207,Pandas,what are outliers for boxplot?
-AASKK208,Pandas,how to use boxplots to find the point where values are more likely to come from different conditions?
-AASKK209,Pandas,explaining a boxplot and providing a reference in a technical paper
-AASKK210,Pandas,How to reproduce boxplot with only data points at given quantiles
-AASKK211,Pandas,How to understand boxplot outliers?
-AASKK212,Pandas,how to name the ticks in a python matplotlib boxplot?
-AASKK213,Pandas,How to calculate boxplots with imputed data
-AASKK214,Pandas,which one to implement whether bars or boxplot?
-AASKK215,Pandas,How to calculate pvalue between boxplot boxes in python?
-AASKK216,Pandas,How to Concatenating Columns Pandas?
-AASKK217,Pandas,How to find starting and ending column name
+AASKK197,Correlation,What is row correlation?
+AASKK198,Correlation,How to do labelencoding for pandas dataframe using sklearn labelencoder
+AASKK199,Correlation,How to engineer features using pandas
+AASKK200,Correlation,what are pandas / statsmodel / scikits-learn?
+AASKK201,Correlation,What is the differences in spearman coefficient between r and pandas
+AASKK202,Missing,How to fill in misssing value in datatime format in pandas?
+AASKK203,Plots,How to plot boxplot for normal distribution data?
+AASKK204,Plots,How to plot boxplot in pandas?
+AASKK205,Correlation,how to assess skewness from a boxplot?
+AASKK206,Plots,what is boxplot interpretation?
+AASKK207,Outliers,what are outliers for boxplot?
+AASKK208,Plots,how to use boxplots to find the point where values are more likely to come from different conditions?
+AASKK209,Plots,explaining a boxplot and providing a reference in a technical paper
+AASKK210,Plots,How to reproduce boxplot with only data points at given quantiles
+AASKK211,Plots,How to understand boxplot outliers?
+AASKK212,Plots,how to name the ticks in a python matplotlib boxplot?
+AASKK213,Plots,How to calculate boxplots with imputed data
+AASKK214,Plots,which one to implement whether bars or boxplot?
+AASKK215,Plots,How to calculate pvalue between boxplot boxes in python?
+AASKK216,DataFrame,How to Concatenating Columns Pandas?
+AASKK217,DataFrame,How to find starting and ending column name
 AASKK218,Python Introduction,combining 2D arrays to 3D arrays
-AASKK219,Pandas,How to Create dummies from column with multiple values in pandas
+AASKK219,DataFrame,How to Create dummies from column with multiple values in pandas
 AASKK220,Python Introduction,How to create pivot with totals (margins) in Pandas?
-AASKK221,Pandas,"Python Pandas: Resolving ""List Object has no Attribute 'Loc'"""
-AASKK222,Pandas,How to add an extra row to a pandas dataframe
-AASKK223,Pandas,How to subset a dataframe?
-AASKK224,Pandas,How to remove missing values?
-AASKK225,Pandas,How to impute dataframes?
-AASKK226,Pandas,pandas merge columns to a single time series
-AASKK227,Pandas,Get particular row as series from pandas dataframe
-AASKK228,Pandas,"For hashing, what happens to number of empty slots when n tends to inifinity?"
-AASKK229,Pandas,Python Dataframe conditionally drop_duplicates
-AASKK230,Pandas,Subset Pandas DataFrame Secondary Index and Reassigning values
-AASKK231,Pandas,Reading a specific number of lines of a .csv in python
-AASKK232,Pandas,Logarithmic returns in pandas dataframe
-AASKK233,Pandas,"Python apply a func to two lists of lists, store the result in a Dataframe"
-AASKK234,Pandas,get_dummies python memory error
-AASKK235,Pandas,How to add black border to matplotlib 2.0 `ax` object In Python 3?
-AASKK236,Pandas,what is descriptive statistics and what is describe function?
-AASKK237,Pandas,"How to calculate the mean, median, mode of the function in python?"
-AASKK238,Pandas,What is quantile analysis in python?
-AASKK239,Pandas,What is decile and percentile analysis in python?
-AASKK240,Pandas,what is pd.qcut?
-AASKK241,Pandas,How to calculate statistics from python?
-AASKK242,Pandas,How to draw a correlation heatmap?
-AASKK243,Pandas,How to plot a pairplot using python?
-AASKK244,Pandas,How to append one dataframe to another dataframe?
-AASKK245,Pandas,"How to use .loc, .iloc, .at and .ix to index dataframes?"
-AASKK246,Pandas,How to access dataframe with boolean index?
-AASKK247,Pandas,How to apply boolean mask to a dataframe?
-AASKK248,Pandas,How to mask based on column name?
-AASKK249,Pandas,How to mask dataframe based on index value?
-AASKK250,Pandas,What are categorical data in pandas?
-AASKK251,Pandas,what are nominal and ordinal data types in python?
-AASKK252,Pandas,How to find the correlation between two columns?
-AASKK253,Pandas,How to put  a heatmap for the correlation we found?
-AASKK254,Pandas,How to use np.nan in pandas dataframe?
-AASKK255,Pandas,How to sample randomly in a pandas dataframe?
-AASKK256,Pandas,what is startified sampling in a pandas dataframe?
-AASKK257,Pandas,What are different kind of random numbers in a pandas dataframe?
-AASKK258,Pandas,how to generate random numbers in python with uniform distribution?
-AASKK259,Pandas,how to generate random numbers in python with normal distribution?
-AASKK260,Pandas,how to generate random numbers in python with  many distributions?
-AASKK261,Pandas,what is simple imputer ?
+AASKK221,DataFrame,"Python Pandas: Resolving ""List Object has no Attribute 'Loc'"""
+AASKK222,DataFrame,How to add an extra row to a pandas dataframe
+AASKK223,DataFrame,How to subset a dataframe?
+AASKK224,Missing,How to remove missing values?
+AASKK225,Missing,How to impute dataframes?
+AASKK226,DataFrame,pandas merge columns to a single time series
+AASKK227,DataFrame,Get particular row as series from pandas dataframe
+AASKK228,DataFrame,"For hashing, what happens to number of empty slots when n tends to inifinity?"
+AASKK229,DataFrame,Python Dataframe conditionally drop_duplicates
+AASKK230,DataFrame,Subset Pandas DataFrame Secondary Index and Reassigning values
+AASKK231,File,Reading a specific number of lines of a .csv in python
+AASKK232,Correlation,Logarithmic returns in pandas dataframe
+AASKK233,DataFrame,"Python apply a func to two lists of lists, store the result in a Dataframe"
+AASKK234,DataFrame,get_dummies python memory error
+AASKK235,Plots,How to add black border to matplotlib 2.0 `ax` object In Python 3?
+AASKK236,Statistics,what is descriptive statistics and what is describe function?
+AASKK237,Statistics,"How to calculate the mean, median, mode of the function in python?"
+AASKK238,Statistics,What is quantile analysis in python?
+AASKK239,Statistics,What is decile and percentile analysis in python?
+AASKK240,DataFrame,what is pd.qcut?
+AASKK241,Statistics,How to calculate statistics from python?
+AASKK242,Correlation,How to draw a correlation heatmap?
+AASKK243,Plots,How to plot a pairplot using python?
+AASKK244,DataFrame,How to append one dataframe to another dataframe?
+AASKK245,DataFrame,"How to use .loc, .iloc, .at and .ix to index dataframes?"
+AASKK246,DataFrame,How to access dataframe with boolean index?
+AASKK247,DataFrame,How to apply boolean mask to a dataframe?
+AASKK248,DataFrame,How to mask based on column name?
+AASKK249,DataFrame,How to mask dataframe based on index value?
+AASKK250,DataFrame,What are categorical data in pandas?
+AASKK251,DataFrame,what are nominal and ordinal data types in python?
+AASKK252,Correlation,How to find the correlation between two columns?
+AASKK253,Correlation,How to put  a heatmap for the correlation we found?
+AASKK254,DataFrame,How to use np.nan in pandas dataframe?
+AASKK255,Sampling,How to sample randomly in a pandas dataframe?
+AASKK256,Sampling,what is startified sampling in a pandas dataframe?
+AASKK257,Sampling,What are different kind of random numbers in a pandas dataframe?
+AASKK258,Sampling,how to generate random numbers in python with uniform distribution?
+AASKK259,Sampling,how to generate random numbers in python with normal distribution?
+AASKK260,Sampling,how to generate random numbers in python with  many distributions?
+AASKK261,Missing,what is simple imputer ?
 AASKK262,Python Introduction,what does import function does?
-AASKK263,Pandas,How to generate histogram in python?
-AASKK264,Pandas,How to create a sample dataframe with datatime?
-AASKK265,Pandas,How to create a sample dataframe with multiindex?
-AASKK266,Pandas,How to save and load from dataframe in pickle format?
-AASKK267,Pandas,How to create pandas dataframe objects?
-AASKK268,Pandas,How to type cast pandas dataframe objects?
-AASKK269,Pandas,What is to_numeric conversion in pandas?
-AASKK270,Pandas,How to create random large datasets?
-AASKK271,Pandas,How to sample a dataframe randomly?
-AASKK272,Pandas,How to create a dataframe from dictionary?
-AASKK273,Pandas,How to create a dataframe from lists?
-AASKK274,Pandas,How to create a dataframe from tuples?
-AASKK275,Pandas,How to create a list of dataframes form list of dictionaries?
-AASKK276,Pandas,How to select cross sections using .xs?
-AASKK277,Pandas,How to slice a list?
-AASKK278,Pandas,how to slice a dataframe?
-AASKK279,Pandas,How to use astype and cast it on a object?
-AASKK280,Pandas,How to check the dtypes of the columns?
-AASKK281,Pandas,How to change type to numeric?
-AASKK282,Pandas,How to change type to datetime?
-AASKK283,Pandas,How to do one hot encoding with dummies?
-AASKK284,Pandas,How to select duplicated entries?
-AASKK285,Pandas,How to drop duplicated entries?
-AASKK286,Pandas,How to count and get unique elements?
-AASKK287,Pandas,How to get unique values from the columns?
-AASKK288,Pandas,What is Data oversampling?
-AASKK289,Pandas,How to fill missing value with  median?
-AASKK290,Pandas,How to fill a missing value with mean?
-AASKK291,Pandas,How to fill a missing value with forward fill?
-AASKK292,Pandas,How to shuffle rows in a pandas dataframe?
-AASKK293,Pandas,What is a heatmap of correlation?
-AASKK294,Pandas,What is correlation dataframe in pandas?
-AASKK295,Pandas,What are different kinds of encoding supported by Pandas?
+AASKK263,Plots,How to generate histogram in python?
+AASKK264,Datetime,How to create a sample dataframe with datatime?
+AASKK265,Datetime,How to create a sample dataframe with multiindex?
+AASKK266,File,How to save and load from dataframe in pickle format?
+AASKK267,DataFrame,How to create pandas dataframe objects?
+AASKK268,DataFrame,How to type cast pandas dataframe objects?
+AASKK269,DataFrame,What is to_numeric conversion in pandas?
+AASKK270,Sampling,How to create random large datasets?
+AASKK271,Sampling,How to sample a dataframe randomly?
+AASKK272,DataFrame,How to create a dataframe from dictionary?
+AASKK273,DataFrame,How to create a dataframe from lists?
+AASKK274,DataFrame,How to create a dataframe from tuples?
+AASKK275,DataFrame,How to create a list of dataframes form list of dictionaries?
+AASKK276,DataFrame,How to select cross sections using .xs?
+AASKK277,DataFrame,How to slice a list?
+AASKK278,DataFrame,how to slice a dataframe?
+AASKK279,DataFrame,How to use astype and cast it on a object?
+AASKK280,DataFrame,How to check the dtypes of the columns?
+AASKK281,DataFrame,How to change type to numeric?
+AASKK282,Datetime,How to change type to datetime?
+AASKK283,DataFrame,How to do one hot encoding with dummies?
+AASKK284,DataFrame,How to select duplicated entries?
+AASKK285,DataFrame,How to drop duplicated entries?
+AASKK286,DataFrame,How to count and get unique elements?
+AASKK287,DataFrame,How to get unique values from the columns?
+AASKK288,Sampling,What is Data oversampling?
+AASKK289,Missing,How to fill missing value with  median?
+AASKK290,Missing,How to fill a missing value with mean?
+AASKK291,Missing,How to fill a missing value with forward fill?
+AASKK292,Sampling,How to shuffle rows in a pandas dataframe?
+AASKK293,Correlation,What is a heatmap of correlation?
+AASKK294,Correlation,What is correlation dataframe in pandas?
+AASKK295,DataFrame,What are different kinds of encoding supported by Pandas?
 AASKK296,Python Introduction,How is mutable datatype used in python?
 AASKK297,Python Introduction,How is immutable datatype used in python?
 AASKK298,Python Introduction,What is Artificial Intellegence ?
@@ -333,27 +333,27 @@ AASKK331,Python Introduction,Can you give me links for Python?
 AASKK332,Python Introduction,Can you give me lectures for python learning?
 AASKK333,Python Introduction,Can you give me some links and lectures for python understanding?
 AASKK334,Python Introduction,What are all different kind of plotting that can be done with python?
-AASKK335,Pandas,How to change the type to numeric in Pandas?
-AASKK336,Pandas,What is the purpose of astype in pandas?
-AASKK337,Pandas,What is the purpose of df.info ?
-AASKK338,Pandas,How to get memory usage statitsics of a dataframe?
-AASKK339,Pandas,How to get dataframe various summary statistics?
-AASKK340,Pandas,How to Detect missing values with np.nan
-AASKK341,Pandas,Interpreting integer and NA in pandas?
-AASKK342,Pandas,What are all basic data graphs in pandas?
-AASKK343,Pandas,What is a bar chart in pandas?
-AASKK344,Pandas,How to groupby one column in pandas?
-AASKK345,Pandas,How to groupby multiple columns in pandas?
-AASKK346,Pandas,How to group numbers in pandas?
-AASKK347,Pandas,How to select list of columns for groupby in pandas?
-AASKK348,Pandas,What is the difference between aggregating by size and count in pandas?
-AASKK349,Pandas,How to select a column by label?
-AASKK350,Pandas,How to select a column by position?
-AASKK351,Pandas,How to slice a label by including start and stop labels?
-AASKK352,Pandas,How to do boolean indexing?
-AASKK353,Pandas,How to generate a random dataframe?
-AASKK354,Pandas,How to use .query method for variable filtering?
-AASKK355,Pandas,
+AASKK335,DataFrame,How to change the type to numeric in Pandas?
+AASKK336,DataFrame,What is the purpose of astype in pandas?
+AASKK337,DataFrame,What is the purpose of df.info ?
+AASKK338,Statistics,How to get memory usage statitsics of a dataframe?
+AASKK339,Statistics,How to get dataframe various summary statistics?
+AASKK340,Missing,How to Detect missing values with np.nan
+AASKK341,DataFrame,Interpreting integer and NA in pandas?
+AASKK342,Plots,What are all basic data graphs in pandas?
+AASKK343,Plots,What is a bar chart in pandas?
+AASKK344,GroupBy,How to groupby one column in pandas?
+AASKK345,GroupBy,How to groupby multiple columns in pandas?
+AASKK346,GroupBy,How to group numbers in pandas?
+AASKK347,GroupBy,How to select list of columns for groupby in pandas?
+AASKK348,GroupBy,What is the difference between aggregating by size and count in pandas?
+AASKK349,DataFrame,How to select a column by label?
+AASKK350,DataFrame,How to select a column by position?
+AASKK351,DataFrame,How to slice a label by including start and stop labels?
+AASKK352,DataFrame,How to do boolean indexing?
+AASKK353,DataFrame,How to generate a random dataframe?
+AASKK354,DataFrame,How to use .query method for variable filtering?
+AASKK355,Introduction to Python,
 AASKK356,Classes,An object represents an entity in the real world with its identity and behaviour.
 AASKK357,Classes,What is a constructor
 AASKK358,Classes,What is a python object
@@ -386,33 +386,33 @@ AASKK384,Python Introduction,How can you generate random numbers in Python?
 AASKK385,Python Introduction,What is the difference between range & xrange?
 AASKK386,Python Introduction,How do you write comments in python?
 AASKK387,Python Introduction,What is pickling and unpickling?
-AASKK388,DataTypes,What are the generators in python?
-AASKK389,DataTypes,How will you capitalize the first letter of string?
-AASKK390,DataTypes,How will you convert a string to all lowercase?
-AASKK391,DataTypes,How to comment multiple lines in python?
-AASKK392,DataTypes,What are docstrings in Python?
-AASKK393,DataTypes,"What is the purpose of is, not and in operators?"
-AASKK394,DataTypes,What is the usage of help() and dir() function in Python?
-AASKK395,DataTypes,"Whenever Python exits, why isn’t all the memory de-allocated?"
-AASKK396,DataTypes,What is a dictionary in Python?
-AASKK397,DataTypes,How can the ternary operators be used in python?
-AASKK398,DataTypes,"What does this mean: *args, **kwargs? And why would we use it?"
-AASKK399,DataTypes,What does len() do?
-AASKK400,DataTypes,"Explain split(), sub(), subn() methods of “re” module in Python."
-AASKK401,DataTypes,What are negative indexes and why are they used?
-AASKK402,DataTypes,What are Python packages?
-AASKK403,DataTypes,How can files be deleted in Python?
-AASKK404,DataTypes,What are the built-in types of python?
-AASKK405,DataTypes,What advantages do NumPy arrays offer over (nested) Python lists?
-AASKK406,DataTypes,How to add values to a python array?
-AASKK407,DataTypes,How to remove values to a python array?
-AASKK408,DataTypes,Does Python have OOps concepts?
-AASKK409,DataTypes,What is the difference between deep and shallow copy?
-AASKK410,DataTypes,How is Multithreading achieved in Python?
-AASKK411,DataTypes,What is the process of compilation and linking in python?
-AASKK412,DataTypes,What are Python libraries? Name a few of them
-AASKK413,DataTypes,What is split used for?
-AASKK414,DataTypes,How to import modules in python?
-AASKK415,DataTypes,Explain Inheritance in Python with an example.
-AASKK416,DataTypes,How are classes created in Python? 
-AASKK417,DataTypes,How to write a oneliner python code?
+AASKK388,Introduction to Python,What are the generators in python?
+AASKK389,String,How will you capitalize the first letter of string?
+AASKK390,String,How will you convert a string to all lowercase?
+AASKK391,Misc,How to comment multiple lines in python?
+AASKK392,Misc,What are docstrings in Python?
+AASKK393,Misc,"What is the purpose of is, not and in operators?"
+AASKK394,Misc,What is the usage of help() and dir() function in Python?
+AASKK395,Misc,"Whenever Python exits, why isn’t all the memory de-allocated?"
+AASKK396,Misc,What is a dictionary in Python?
+AASKK397,Misc,How can the ternary operators be used in python?
+AASKK398,Misc,"What does this mean: *args, **kwargs? And why would we use it?"
+AASKK399,Misc,What does len() do?
+AASKK400,Misc,"Explain split(), sub(), subn() methods of “re” module in Python."
+AASKK401,Lists,What are negative indexes and why are they used?
+AASKK402,Misc,What are Python packages?
+AASKK403,File,How can files be deleted in Python?
+AASKK404,Misc,What are the built-in types of python?
+AASKK405,Misc,What advantages do NumPy arrays offer over (nested) Python lists?
+AASKK406,Misc,How to add values to a python array?
+AASKK407,Misc,How to remove values to a python array?
+AASKK408,Misc,Does Python have OOps concepts?
+AASKK409,Misc,What is the difference between deep and shallow copy?
+AASKK410,Misc,How is Multithreading achieved in Python?
+AASKK411,Misc,What is the process of compilation and linking in python?
+AASKK412,Misc,What are Python libraries? Name a few of them
+AASKK413,String,What is split used for?
+AASKK414,Misc,How to import modules in python?
+AASKK415,Misc,Explain Inheritance in Python with an example.
+AASKK416,Classes,How are classes created in Python? 
+AASKK417,Misc,How to write a oneliner python code?
