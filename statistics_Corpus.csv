@@ -1,0 +1,108 @@
+﻿Topic_Code,Sub_Topic_Code,Topic_Name,Question
+AASKK02,S0001,Data and Histogram,How to Summarizes data (Data and Histogram)
+AASKK02,S0001,Data and Histogram,What is Univariate Analysis
+AASKK02,S0001,Data and Histogram,What is Multvariate Analysis
+AASKK02,S0002,Central Tendency and 3 Ms,What are Central Tendency
+AASKK02,S0002,Central Tendency and 3 Ms,What are 3Ms
+AASKK02,S0002,Central Tendency and 3 Ms,What is mean
+AASKK02,S0002,Central Tendency and 3 Ms,What is median
+AASKK02,S0002,Central Tendency and 3 Ms,What is mode.
+AASKK02,S0002,Central Tendency and 3 Ms,How to calculate mean 
+AASKK02,S0002,Central Tendency and 3 Ms,How to calculate median
+AASKK02,S0002,Central Tendency and 3 Ms,What are covariance
+AASKK02,S0002,Central Tendency and 3 Ms,How to find Coefficient of Correlation
+AASKK02,S0002,Central Tendency and 3 Ms,How to calculate mode
+AASKK02,S0003,Measures of Dispersion Range and IQR,What is Measures of Dispersion
+AASKK02,S0003,Measures of Dispersion Range and IQR,How to calculate Dispersion
+AASKK02,S0003,Measures of Dispersion Range and IQR,What is Range
+AASKK02,S0003,Measures of Dispersion Range and IQR,How to calculate Range
+AASKK02,S0003,Measures of Dispersion Range and IQR,What is IQR
+AASKK02,S0003,Measures of Dispersion Range and IQR,How to calculate IQR
+AASKK02,S0004,Standard Deviation,What is Standard Deviation
+AASKK02,S0004,Standard Deviation,How to calculate Standard Deviation
+AASKK02,S0005,Coefficient of Variation,What is Coefficient of Variation
+AASKK02,S0005,Coefficient of Variation,How to calculate Coefficient of Variation
+AASKK02,S0006,The Empirical Rule and Chebyshev Rule,What is Empirical Rule
+AASKK02,S0006,The Empirical Rule and Chebyshev Rule,What is Chebyshev Rule
+AASKK02,S0007,Five Number Summary Boxplot and other plots,What is Five Number Summary
+AASKK02,S0007,Five Number Summary Boxplot and other plots,How to calculate Five Number Summary
+AASKK02,S0007,Five Number Summary Boxplot and other plots,Why Boxplot used
+AASKK02,S0007,Five Number Summary Boxplot and other plots,How to find the outlier in Data
+AASKK02,S0007,Five Number Summary Boxplot and other plots,How to deal with Outliers
+AASKK02,S0007,Five Number Summary Boxplot and other plots,How to determine outliers in Boxplot
+AASKK02,S0007,Five Number Summary Boxplot and other plots,What are the other important plots and there significance
+AASKK02,S0007,Five Number Summary Boxplot and other plots,How skewness is measured
+AASKK02,S0007,Five Number Summary Boxplot and other plots,What are different types of skewness
+AASKK02,S0007,Five Number Summary Boxplot and other plots,How to remove skewness from data
+AASKK02,S0008,Data Visualizations,Whta is Data Visualizations
+AASKK02,S0008,Data Visualizations,How to do Data Visualizations
+AASKK02,S0009,Correlation Analysis,What is Correlation Analysis
+AASKK02,S0009,Correlation Analysis,How to do Correlation Analysis
+AASKK02,S0009,Correlation Analysis,Why Correlation Analysis is done.
+AASKK02,S0010,Probability - Meaning and concepts,How Probablity calculated.
+AASKK02,S0010,Probability - Meaning and concepts,Where probality is used in Machine Learning
+AASKK02,S0011,Rules for Computing Probability,what are the different rules of calculating Probability
+AASKK02,S0011,Rules for Computing Probability,What is Probability distribution
+AASKK02,S0012,Marginal Probablity,What is Marginal Probability
+AASKK02,S0012,Marginal Probablity,What are the examnples of Marginal Probablity
+AASKK02,S0013,Bayes theorem and Example,What is Bayes theorem
+AASKK02,S0013,Bayes theorem and Example,Where does Bayes theorem used in Machine Learning
+AASKK02,S0013,Bayes theorem and Example,Give some examnples of Bayes theorem application 
+AASKK02,S0014,Distributions and Example,What is Binomial Distribution
+AASKK02,S0014,Distributions and Example,Where does Binomial Distribution used in Machine Learning
+AASKK02,S0014,Distributions and Example,Give some examnples of Binomial Distribution application 
+AASKK02,S0014,Distributions and Example,What is Poisson Distribution
+AASKK02,S0014,Distributions and Example,Where does Poisson Distribution used in Machine Learning
+AASKK02,S0014,Distributions and Example,Give some examnples of Poisson Distribution application
+AASKK02,S0014,Distributions and Example,What is Normal Distribution
+AASKK02,S0014,Distributions and Example,Where does Normal Distribution used in Machine Learning
+AASKK02,S0014,Distributions and Example,Give some examnples of Normal Distribution application 
+AASKK02,S0015,Hypothesis Formulation and Tests,What is Hypothesis
+AASKK02,S0015,Hypothesis Formulation and Tests,How Hypothesis are formulated
+AASKK02,S0015,Hypothesis Formulation and Tests,What are Null and Alternate Hypothesis
+AASKK02,S0015,Hypothesis Formulation and Tests,How Hypothesis testing is done
+AASKK02,S0015,Hypothesis Formulation and Tests,What are Type l errors
+AASKK02,S0015,Hypothesis Formulation and Tests,What are Type ll errors
+AASKK02,S0015,Hypothesis Formulation and Tests,What is one tailed Hypothesis test
+AASKK02,S0015,Hypothesis Formulation and Tests,What is two tailed Hypothesis test
+AASKK02,S0015,Hypothesis Formulation and Tests,When one tailed Hypothesis test is done
+AASKK02,S0015,Hypothesis Formulation and Tests,When two tailed Hypothesis test is done
+AASKK02,S0016,Concepts of sampling distribution and Central Limit Theorem,What is sampling distribution
+AASKK02,S0016,Concepts of sampling distribution and Central Limit Theorem,When we need to check for sampling distribution
+AASKK02,S0016,Concepts of sampling distribution and Central Limit Theorem,Whats is Central Limit Theorem
+AASKK02,S0016,Concepts of sampling distribution and Central Limit Theorem,What are the different types of Central Limit Theorem
+AASKK02,S0017,Confidence Intervals and tests,What is Confidence Intervals
+AASKK02,S0017,Confidence Intervals and tests,How to calcuate Confidence Intervals
+AASKK02,S0017,Confidence Intervals and tests,When to calcuate Confidence Intervals
+AASKK02,S0017,Confidence Intervals and tests,What is Single sample z - test of mean
+AASKK02,S0017,Confidence Intervals and tests,What is the significance of Single sample z - test of mean
+AASKK02,S0017,Confidence Intervals and tests,What is t - test of mean
+AASKK02,S0017,Confidence Intervals and tests,What is the significance of  t - test of mean
+AASKK02,S0017,Confidence Intervals and tests,What is z - test of Proportion
+AASKK02,S0017,Confidence Intervals and tests,What is the significance of  z - test of Proportion
+AASKK02,S0018,Test of variance and Proportion,When to do Test of variance
+AASKK02,S0018,Test of variance and Proportion,What are the different types of variance tests
+AASKK02,S0018,Test of variance and Proportion,What is Chi Square test
+AASKK02,S0018,Test of variance and Proportion,When to do Chi Square test
+AASKK02,S0018,Test of variance and Proportion,What is F - ratio test
+AASKK02,S0018,Test of variance and Proportion,When to do F - ratio test
+AASKK02,S0018,Test of variance and Proportion,What is ANOVA
+AASKK02,S0018,Test of variance and Proportion,When to do ANOVA test
+AASKK02,S0018,Test of variance and Proportion,What are One Sample Testing
+AASKK02,S0018,Test of variance and Proportion,When to do One Sample Testing
+AASKK02,S0018,Test of variance and Proportion,What are Two Sample Testing
+AASKK02,S0018,Test of variance and Proportion,When to do Two Sample Testing
+AASKK02,S0018,Test of variance and Proportion,What are tests for Proportion and variance
+AASKK02,S0019,Scaling and Normalization,What are Scaling
+AASKK02,S0019,Scaling and Normalization,When to do Scaling
+AASKK02,S0019,Scaling and Normalization,What are Normalization
+AASKK02,S0019,Scaling and Normalization,When to do Normalization
+AASKK02,S0019,Scaling and Normalization,What are the pros and cons of Scaling and Normalization
+AASKK02,S0020,Exploratory Data analysis,How to do Exploratory Data analysis
+AASKK02,S0020,Exploratory Data analysis,What are the differeny Data types
+AASKK02,S0020,Exploratory Data analysis,What are Variables
+AASKK02,S0020,Exploratory Data analysis,How to define Variables
+AASKK02,S0021,Data Preprocessing,How to do Encoding of Categorical Data
+AASKK02,S0021,Data Preprocessing,What are the different kind of Encoding
+AASKK02,S0021,Data Preprocessing,What is Data Preprocessing
+AASKK02,S0021,Data Preprocessing,What are the different methods to do Data Preprocessing
