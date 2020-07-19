@@ -1,0 +1,162 @@
+Topic_Code,Sub_Topic_Code,Question
+AASKK01,Python Introduction,I want to know about Python
+AASKK01,Python Introduction,What is Python
+AASKK01,Python Introduction,I Want to understand Python
+AASKK01,Python Introduction,what is python ecosystem
+AASKK01,Python Introduction,whether python ecosystem is well supported
+AASKK01,Python Introduction,Is python general purpose
+AASKK01,Python Introduction,Is python accessible
+AASKK01,Python Introduction,What is jupyter notebook
+AASKK01,Python Introduction,How python code is different from notebook
+AASKK01,Lists,what is list
+AASKK01,Dictionary,what is dictionary
+AASKK01,Python Introduction,Which field python is extensively used
+AASKK01,Python Introduction,"what is AI, Machine Learning, Big Data computing and big data?"
+AASKK01,Python Introduction,Does python has features of data analytics
+AASKK01,Python Introduction,what are all python libraries 
+AASKK01,Python Introduction,"tensorflow, opencv and pandas are part of python?"
+AASKK01,Python Introduction,Is python a high level language?
+AASKK01,Lists,what is an index in a list?
+AASKK01,Lists,what is a reverse list?
+AASKK01,Lists,whether list is mutable?
+AASKK01,Lists,can we concatenate two lists?
+AASKK01,Dictionary,what is key value pair in a dictionary?
+AASKK01,Dictionary,whether keys are always unique in a dictionary?
+AASKK01,File,how to open a file in python. 
+AASKK01,File,what are all different modes available in python
+AASKK01,File,what is file read operation?
+AASKK01,File,what is file write operation?
+AASKK01,File,what is file close operation?
+AASKK01,File,how to close a file automatically when you use file read?
+AASKK01,File,what are all different file types we can read in python
+AASKK01,Dictionary,how to merge two python dictionaries in a single expression?
+AASKK01,Numpy,what is numpy and  pandas?
+AASKK01,Ploting,what  is seaborn?
+AASKK01,Pandas,Can excel be read in python?
+AASKK01,Pandas,can csv file be read in python?
+AASKK01,Dictionary,how to sort objects in a dictionary?
+AASKK01,Lists,pattern matching in lists?
+AASKK01,Lists,map two lists into single list?
+AASKK01,Lists,merging/adding lists in python?
+AASKK01,Dictionary,comparing massive lists of dictionaries from python
+AASKK01,Lists,sorting and grouping nested lists in python
+AASKK01,Lists,ordered lists in python
+AASKK01,Dictionary,how to merge two python dictionaries in a single expression?
+AASKK01,Ploting,how to plot matlab functions in python?
+AASKK01,Pandas,what is pandas?
+AASKK01,PivotTable,what is pandas pivot table?
+AASKK01,PivotTable,what is pandas qcut method?
+AASKK01,PivotTable,what is pandas cut method?
+AASKK01,PivotTable,how to sort pandas pivot table?
+AASKK01,GroupBy,What is Pandas Groupby Object
+AASKK01,GroupBy,what is aggregation in pandas groupby ?
+AASKK01,Missing,what are missing values in pandas?
+AASKK01,Numpy,"how to create 3 dimensions matrix in numpy , like matlab a(:,:,:)"
+AASKK01,Missing,How to fill in misssing value in datatime format in pandas?
+AASKK01,Ploting,How to plot boxplot in pandas?
+AASKK01,Ploting,How to understand boxplot outliers?
+AASKK01,Ploting,How to calculate boxplots with imputed data
+AASKK01,Ploting,How to calculate pvalue between boxplot boxes in python?
+AASKK01,Numpy,combining 2D arrays to 3D arrays
+AASKK01,Pandas,How to create pivot with totals (margins) in Pandas?
+AASKK01,Missing,How to remove missing values?
+AASKK01,Missing,How to impute dataframes?
+AASKK01,Ploting,How to plot a pairplot using python?
+AASKK01,Missing,what is simple imputer ?
+AASKK01,Ploting,How to generate histogram in python?
+AASKK01,Missing,How to fill missing value with  median?
+AASKK01,Missing,How to fill a missing value with mean?
+AASKK01,Missing,How to fill a missing value with forward fill?
+AASKK01,Pandas,What is Pandas library?
+AASKK01,Pandas,How to read an excel in python?
+AASKK01,Pandas,How to read a csv file in python?
+AASKK01,Ploting,How is matlab different from python?
+AASKK01,Pandas,How to utilize pandas dataframe?
+AASKK01,Numpy,Can please eloborate on numpy apply method?
+AASKK01,Ploting,What are all different kind of plotting that can be done with python?
+AASKK01,Missing,How to Detect missing values with np.nan
+AASKK01,Ploting,What are all basic data graphs in pandas?
+AASKK01,Ploting,What is a bar chart in pandas?
+AASKK01,GroupBy,How to groupby one column in pandas?
+AASKK01,GroupBy,How to groupby multiple columns in pandas?
+AASKK01,GroupBy,How to group numbers in pandas?
+AASKK01,GroupBy,How to select list of columns for groupby in pandas?
+AASKK01,GroupBy,What is the difference between aggregating by size and count in pandas?
+AASKK01,Misc,How to comment multiple lines in python?
+AASKK01,Misc,What are docstrings in Python?
+AASKK01,Misc,How can the ternary operators be used in python?
+AASKK01,Misc,"What does this mean: *args, **kwargs? And why would we use it?"
+AASKK01,Misc,What does len() do?
+AASKK01,File,How can files be deleted in Python?
+AASKK01,Numpy,How to create Array and summary of Array
+AASKK01,Numpy,how to identify a Position in an array?
+AASKK01,Numpy,What is Indexing?
+AASKK01,Numpy,How to create matrix?
+AASKK01,Numpy,Converting a data type to different data type using Numpy?
+AASKK01,Numpy,How to use different functions using Numpy?
+AASKK01,Numpy,How to print a numpy array by suppressing the scientific notation (like 1e10)?
+AASKK01,Numpy,How to make a python function that handles scalars to work on numpy arrays
+AASKK01,Numpy,How to do Ranking?
+AASKK01,Ploting,Which library would you prefer for plotting in Python language?
+AASKK01,Ploting,Is it possible to plot histogram in Pandas without calling Matplotlib?
+AASKK01,Ploting,Which python library is built on top of matplotlib and Pandas to ease data plotting?
+AASKK01,Ploting,What are different types of plots in python
+AASKK01,Ploting,What is Stacked barplot with matplotlib
+AASKK01,Ploting,Which plot is used for correlation
+AASKK01,Ploting,Histogram used for?
+AASKK01,Ploting,Matplotlib Python Plotting Ways?
+AASKK01,String,What are strings?
+AASKK01,String,How to implement string split ?
+AASKK01,String,How to capitalize the first letter of a string
+AASKK01,String,How to lower the case of entire string
+AASKK01,String,What is split used for in spring function?
+AASKK01,Statistics,python and statistical analysis tutorials
+AASKK01,Statistics,How different statistical tests are performed in python
+AASKK01,Statistics,taking a t-test with python?
+AASKK01,Statistics,chi squared results in r and python
+AASKK01,Statistics,what is descriptive statistics
+AASKK01,Statistics,What is describe function in python
+AASKK01,Statistics,What is quantile analysis in python?
+AASKK01,Statistics,How to calculate statistics from python?
+AASKK01,Statistics,Can you give me some tutorials on Statistical analysis of python?
+AASKK01,Statistics,How to get dataframe various summary statistics?
+AASKK01,Sets,what are sets
+AASKK01,Sets,whether we can have unique elements in sets?
+AASKK01,Sets,whether sets are mutable?
+AASKK01,Sets,what operations we can perform in sets? 
+AASKK01,Dictionary,How is key value pair used in dictionary
+AASKK01,Dictionary,How to create a dictionary
+AASKK01,Dictionary,How to sort a dictionary
+AASKK01,Dictionary,How to merge two dictionaries
+AASKK01,Dictionary,How to convert a dictionary to dataframe
+AASKK01,File,How to open a file inline
+AASKK01,File,How to operate on a sentence in a file
+AASKK01,File,What are all different modes of file reading available
+AASKK01,File,what is file reading
+AASKK01,File,what is file operation
+AASKK01,GroupBy,Why groupby is needed in pandas
+AASKK01,GroupBy,How to aggregate a groupby pandas solution
+AASKK01,GroupBy,How to group categorical variables in pandas
+AASKK01,GroupBy,How to group columns in pandas
+AASKK01,GroupBy,method to group different coulumns
+AASKK01,Lists,what is list comprehension
+AASKK01,Lists,what is list concatenation
+AASKK01,Lists,what is list addition
+AASKK01,Lists,what is list removal
+AASKK01,Lists,what is list merging
+AASKK01,Lists,how to map two lists in python
+AASKK01,Misc,How to serialize a pandas dataframe?
+AASKK01,Misc,How to create Pandas series?
+AASKK01,Misc,what is a value_counts of a series?
+AASKK01,Misc,pandas merge columns to a single time series
+AASKK01,Misc,Get particular row as series from pandas dataframe
+AASKK01,Misc,how to generate random numbers in python
+AASKK01,Misc,"what is normal , uniform and gaussian distribution in python?"
+AASKK01,Misc,what is data downsampling in pandas?
+AASKK01,Misc,How to sample randomly in a pandas dataframe?
+AASKK01,Misc,what is startified sampling in a pandas dataframe?
+AASKK01,Misc,What are different kind of random numbers in a pandas dataframe?
+AASKK01,Misc,how to generate random numbers in python with uniform distribution?
+AASKK01,Misc,how to generate random numbers in python with normal distribution?
+AASKK01,Misc,how to generate random numbers in python with  many distributions?
+AASKK01,Misc,How to create random large datasets?
