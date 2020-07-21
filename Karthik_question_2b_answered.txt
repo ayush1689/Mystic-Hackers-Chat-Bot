@@ -1,0 +1,17 @@
+what are classification methods? Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM, Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, 
+what are all basic ensembel techneques? Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union
+what are all different Ensemble classification methods, Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST, Bagging, Boosting, RandomForest, Stacking Classifier, One Vs All, One vs Rest Classifier.
+What are regression methods? mutual_info_regression,Linear regression, Ridge regression, Lasso Rigression, Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr 
+what are all different classification algorithm names?MaximumMarginClassiﬁer, Perceptron, Nueral network classifier, LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis,RandomForestClassifier, AdaBoostClassifier,LogisticRegression, SGDClassifier,GaussianNB,MultinomialNB,KNeighborsClassifier, MLPClassifier, DecisionTreeClassifier, 
+what are all different regression algorithm names?LEAST-SQUARES LINEAR REGRESSION,WEIGHTED LEAST-SQUARES REGRESSION,LinearSVR,KNeighborsRegressor,MLPRegressor, RidgeRegression, LassoRegression, LinearRegression, SVR regression, DecisionTreeRegressor
+what are all different Sampling techneques: df.sample,train_test_split, KFold, StratifiedKFold
+what are all different Pipeline names? Pipeline, PMML pipeline, column transformed, Missing value imputer, Variance threshold, 
+what are all different scoring mechanisms? matthews_corrcoef, Pearson Correlation coeff, AUC, ROC-AUC, False positive, False Negetive, True positive, True Negetive, False positive rate, True positive rate, specificity, sensitivity.
+what are all different Preprocessing techneques? StandardScaler, MinMaxScaler,OneHotEncoder, RobustScaler, OutputEncoding, Normalization, Frequency encoding, Mean Encoding, Median encoding.
+what are all different dimensionality reduction methods? PCA, SVD, Randomized SVD, Truncated SVD, 
+what are all different clustering methods? Kmeans clustering, DBSCAN, Aggloromative clustering, Heirarchial clustering, Top down clustering, Bottom up clustering, Dendograms,Dynamic Clustering, Static clustering
+what are all different linkage methods available in Clustering? Complete Linkage, Silhouette analysis , Ward linkage, 
+What are all different distance measures? Manhattan, Euclidean, Cosine,Jaccard distance,Edit distance,Mahalanobis distance,Elbow method,Entropy,Pruning,
+what are all different hyper parameter optimization methods? GridSearch, RandomizedSearch, HyperoptEstimator, CrossValidation Framework
+what are all applications of ensemble learning? Medicine, Financial decision-making, Fraud detection, Emotion recognition,Face recognition,Intrusion detection,Malware Detection,Distributed denial of service,
+what are all different statistical Risk minimization? MLE, MAP,Likelihood of a Gaussian, EIGENVECTORS,the Bias-Variance Decomposition,EmpiricalRisk, RidgeRegression,SubsetSelection,Lasso,
