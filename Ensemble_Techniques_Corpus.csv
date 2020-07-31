@@ -1,0 +1,71 @@
+﻿Topic_Code,Topic_Categories,Question,Response
+AASKK04,Ensemble Techniques,What is Ensemble Techniques?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What are the advantages of Ensemble Techniques?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What are the benefits of Ensemble Techniques?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,Which algorithms can be used in an Ensemble?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Bais Error?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Variance Error?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Out of Bag data?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Learning Curve?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Validation Curves?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Cross Validation?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is difference between Bagging and Boosting?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Types,What are the ensemble types?,https://en.wikipedia.org/wiki/Ensemble_types
+AASKK04,Stacking,What is Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What are the advantages of Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,Is the Stacking training dataset constant?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What are the disadvantages of Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Meta Learner Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Meta Classifier?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What are the different type of Meta Classifier available?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,Logistic Meta Classifier,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is One Vs All?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is One Vs Rest?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Base Classifier?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,How Base Classifier and Meta Classifier related?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Blending?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Randomization,What is Randomization?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is Decision Tree algorithm?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is Random Forest Algorithm?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,Is Random Forest based on Decision Tree?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is CART?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is M5 Tree?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is Regression Trees?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Decision Tree,What is a Root Node?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is a Decision Nodes?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is a Leaf / Tail Node?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is Gini Index?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is Entropy?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is Information Gain?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,How Information Gain and Entropy are related?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,How to determine most important feature with Information Gain?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is dummification of data?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Random Forest,What is Voting Process?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What types of Voting Process are available?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is BootStrap Sampling?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Max Features paramter in Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Num of Trees parameter in Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Max Depth parameter in Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Seed?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Grid Search?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Random Search?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Is Bagging concepts used in Random Forest algorithm?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Boosting,What is Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,Are the dataset constant in Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,Can Boosting be done with different algorithms?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is a Bag in Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is AdaBoosing?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is Gradient Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is Extreme Gradient (XG) Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Bagging,What is Bagging?,https://en.wikipedia.org/wiki/Bagging
+AASKK04,Bagging,What is Bagging Classifier algorithm?,https://en.wikipedia.org/wiki/Bagging
+AASKK04,Bagging,What are the demerits of Bagging?,https://en.wikipedia.org/wiki/Bagging
+AASKK04,Random Forest,More information on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Can you provide me more details on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,I need more details on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Where can I find more information on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Can I get more info on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Decision Tree,Unable to understand Decision Tree,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,I need more details to understand Decision Tree?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,Can I get more info on Decision Tree?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,I still have more questions on Decision Tree?,https://en.wikipedia.org/wiki/Decision_tree
