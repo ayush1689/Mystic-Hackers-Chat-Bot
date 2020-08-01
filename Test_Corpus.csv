@@ -1,77 +1,24 @@
 ﻿Topic_Code,Topic_Categories,Question,Response
-AASKK06,CATEGORY1,What is classification in mechine learning?,https://www.geeksforgeeks.org/getting-started-with-classification/
-AASKK06,CATEGORY2,What are regression methods?,https://www.geeksforgeeks.org/ml-linear-regression/
-AASKK06,CATEGORY3,What is Regression and Classification in Machine Learning?,https://www.geeksforgeeks.org/regression-classification-supervised-machine-learning/
-AASKK06,CATEGORY4,What is classification algorithm?,https://en.wikipedia.org/wiki/Category:Classification_algorithms
-AASKK06,CATEGORY5,what are all different regression algorithm names?,https://en.wikipedia.org/wiki/Regression_analysis
-AASKK06,CATEGORY6,What are different types of clssification methods?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM, Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
-AASKK06,CATEGORY8,What are basic ensembel techneques?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
-AASKK06,CATEGORY10,what are all different classification algorithm names?,"MaximumMarginClassiﬁer, Perceptron, Nueral network classifier, LinearDiscriminantAnalysis,QuadraticDiscriminantAnalysis,RandomForestClassifier, AdaBoostClassifier,LogisticRegression, SGDClassifier,GaussianNB,MultinomialNB,KNeighborsClassifier, MLPClassifier, DecisionTreeClassifier"
-AASKK06,CATEGORY12,what are all different Sampling techneques?,"df.sample,train_test_split, KFold, StratifiedKFold"
-AASKK06,CATEGORY13,what are all different Pipeline names?,"Pipeline, PMML pipeline, column transformed, Missing value imputer, Variance threshold"
-AASKK06,CATEGORY14,what are all different scoring mechanisms?,"matthews_corrcoef, Pearson Correlation coeff, AUC, ROC-AUC, False positive, False Negetive, True positive, True Negetive, False positive rate, True positive rate, specificity, sensitivity"
-AASKK06,CATEGORY15,what are all different Preprocessing techneques?,"StandardScaler, MinMaxScaler,OneHotEncoder, RobustScaler, OutputEncoding, Normalization, Frequency encoding, Mean Encoding, Median encoding."
-AASKK06,CATEGORY16,what are all different dimensionality reduction methods?,"PCA, SVD, Randomized SVD, Truncated SVD, "
-AASKK06,CATEGORY17,what are all different clustering methods?,"Kmeans clustering, DBSCAN, Aggloromative clustering, Heirarchial clustering, Top down clustering, Bottom up clustering, Dendograms,Dynamic Clustering, Static clustering"
-AASKK06,CATEGORY18,what are all different linkage methods available in Clustering? ,"Complete Linkage, Silhouette analysis , Ward linkage,"
-AASKK06,CATEGORY19,What are all different distance measures?,"Manhattan, Euclidean, Cosine,Jaccard distance,Edit distance,Mahalanobis distance,Elbow method,Entropy,Pruning,"
-AASKK06,CATEGORY20,what are all different hyper parameter optimization methods?,"GridSearch, RandomizedSearch, HyperoptEstimator, CrossValidation Framework"
-AASKK06,CATEGORY21,what are all applications of ensemble learning?,"Medicine, Financial decision-making, Fraud detection, Emotion recognition,Face recognition,Intrusion detection,Malware Detection,Distributed denial of service,"
-AASKK06,CATEGORY22,what are all different statistical Risk minimization?,"MLE, MAP,Likelihood of a Gaussian, EIGENVECTORS,the Bias-Variance Decomposition,EmpiricalRisk, RidgeRegression,SubsetSelection,Lasso,"
-AASKK06,Nurel Network,What is a Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is a Multi-layer Perceptron(MLP)?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,Did not get neural networks?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,Unable to understand neural networks?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What is the Boltzmann Machine?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is the Role of Activation Functions in a Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is the Cost Function?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is Deep Learning?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,"What Is Data Normalization, and Why Do We Need It?",https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is Gradient Descent?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Do You Understand by Backpropagation?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is the Difference Between a Feedforward Neural Network and Recurrent Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Are the Applications of a Recurrent Neural Network (RNN)?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Are the Softmax and ReLU Functions?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Are Hyperparameters?,https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,"What Is Overfitting and Underfitting, and How to Combat Them?",https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,"What Is the Difference Between Epoch, Batch, and Iteration in Deep Learning?",https://en.wikipedia.org/wiki/Deep_learning
-AASKK06,Nurel Network,What Is Bagging and Boosting?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is Deep Learning?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What is a Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is a Multi-layer Perceptron(MLP)?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,"What Is Data Normalization, and Why Do We Need It?",https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,Did not get neural networks?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,Unable to understand neural networks?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What is the Boltzmann Machine?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is the Role of Activation Functions in a Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is the Cost Function?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is Gradient Descent?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Do You Understand by Backpropagation?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is the Difference Between a Feedforward Neural Network and Recurrent Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Are the Applications of a Recurrent Neural Network (RNN)?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Are the Softmax and ReLU Functions?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Are Hyperparameters?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,"What Is Overfitting and Underfitting, and How to Combat Them?",https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,"What Is the Difference Between Epoch, Batch, and Iteration in Deep Learning?",https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Neural Network,What Is Bagging and Boosting?,https://en.wikipedia.org/wiki/Deep_learning
 AASKK06,Decision Tree,What are decision trees in machine learning?,https://en.wikipedia.org/wiki/Decision_tree
 AASKK06,Decision Tree,What are Decision tree elements?,https://en.wikipedia.org/wiki/Decision_tree
 AASKK06,Decision Tree,What is Classification by query computational complexity?,https://en.wikipedia.org/wiki/Decision_tree_model
 AASKK06,Decision Tree,What is Classification by query computational model?,https://en.wikipedia.org/wiki/Decision_tree_model
 AASKK06,Decision Tree,What is Relationship between different models?,https://en.wikipedia.org/wiki/Decision_tree_model
-AASKK06,CATEGORY6,What are all new methods available in classification?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
-AASKK06,CATEGORY6,Can you explain some of the newer advanced methods in classification?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
-AASKK06,CATEGORY6,More info on newer advanced methods in classification?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
-AASKK06,CATEGORY7,can you provide me more details on clssification methods?," Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
-AASKK06,CATEGORY7,more info on clssification methods?," Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
-AASKK06,CATEGORY7,Can you explain different clssification methods?," Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
-AASKK06,CATEGORY6,What are different types of advanced clssification  methods?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
-AASKK06,CATEGORY8,What are all new methods available in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
-AASKK06,CATEGORY8,Can you explain some of the newer advanced methods in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
-AASKK06,CATEGORY8,More info on newer advanced methods in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
-AASKK06,CATEGORY8,Explain in words some of the advanced methods in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
-AASKK06,CATEGORY8,What are different types of advanced regression methods?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
-AASKK06,CATEGORY9,What are different types of regression methods?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
-AASKK06,CATEGORY9,Can you explain some of the newer methods in regression?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
-AASKK06,CATEGORY9,More info on newer methods in regression?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
-AASKK06,CATEGORY9,Explain in words some of the methods in regression?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
-AASKK06,CATEGORY9,What are different types of  regression methods?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
-AASKK06,CATEGORY10,what are all different Advanced Ensemble classification methods?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
-AASKK06,CATEGORY10,What are different types of advanced ensemble methods?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
-AASKK06,CATEGORY10,What are all new methods available in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
-AASKK06,CATEGORY10,Can you explain some of the newer methods inadvanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
-AASKK06,CATEGORY10,More info on newer methods in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
-AASKK06,CATEGORY10,Explain in words some of the methods in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
-AASKK06,CATEGORY11,what are all different basic Ensemble classification methods?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
-AASKK06,CATEGORY11,What are different types of basic ensemble methods?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
-AASKK06,CATEGORY11,What are all new methods available in basic ensemble classification?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
-AASKK06,CATEGORY11,Can you explain some of the newer methods in basic ensemble classification?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
-AASKK06,CATEGORY11,More info on newer methods in basic ensemble classification?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
-AASKK06,CATEGORY12,what are all different Ensemble classification methods?," Bagging, Boosting, RandomForest, Stacking Classifier, "
-AASKK06,CATEGORY12,Define some of the ensemble classification methods?," Bagging, Boosting, RandomForest, Stacking Classifier, "
-AASKK06,CATEGORY12,What are different types of  ensemble methods?," Bagging, Boosting, RandomForest, Stacking Classifier, "
-AASKK06,CATEGORY12,What are all new methods available in  ensemble classification?," Bagging, Boosting, RandomForest, Stacking Classifier, "
-AASKK06,CATEGORY12,Can you explain some of the newer methods in ensemble classification?," Bagging, Boosting, RandomForest, Stacking Classifier, "
-AASKK06,CATEGORY12,More info on newer methods in  ensemble classification?," Bagging, Boosting, RandomForest, Stacking Classifier, "
